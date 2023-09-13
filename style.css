@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
+
+
+body
+{
+    background-image: url("showcase.jpg");
+}
+.rubrik
+{
+    text-align: center;
+    background-color: yellow;
+    color:blue;
+    border: black solid 3px;
+    font-family: "Roboto Mono";
+    
+}
+.artikel
+{
+    background-color: rgb(175, 175, 175);
+    margin: 17px;
+    padding: 20px;
+    border: 2px solid black;
+    
+
+}
+h1
+{
+    text-align: center
+    ;
+}
+
+img
+{
+    margin-left: 25%;
+}
